@@ -138,7 +138,6 @@ FullPage.prototype._intNav = function(){
             this.style.height = "10px";
         };
 
-        var a = [];
 
 
         pointer.onmouseout = function () {
